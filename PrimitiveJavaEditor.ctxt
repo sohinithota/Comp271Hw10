@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PrimitiveJavaEditor
+comment0.text=create\ a\ method\ that\ sorts\ every\ word\ into\ a\ hashmap,\r\n\ sort\ this\ by\ amount\ of\ words\r\n\ call\ the\ top\ 5\ and\ the\ bottom\ 5\r\n
+comment1.params=x
+comment1.target=boolean\ find(java.lang.String)
+comment2.params=find\ replace
+comment2.target=boolean\ findReplace(java.lang.String,\ java.lang.String)
+comment3.params=find\ insert
+comment3.target=boolean\ findInsert(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ spellCheckAll()
+comment5.params=hm
+comment5.target=java.util.HashMap\ sortByValue(java.util.HashMap)
+comment6.params=o1\ o2
+comment6.target=int\ compare(java.util.Map.Entry,\ java.util.Map.Entry)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
